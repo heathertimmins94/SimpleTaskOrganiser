@@ -22,7 +22,7 @@ import android.widget.SimpleCursorAdapter;
 public class MainActivity extends AppCompatActivity {
 
     public final static String EXTRA_TASK = "com.example.android.simpletaskorganiser.task";
-
+//
 
     private DatabaseHelper dbHelper;
     private SimpleCursorAdapter myCursorAdapter;

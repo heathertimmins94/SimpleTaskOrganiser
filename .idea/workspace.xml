@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1o0q9feml220JhicLLcNLaax6KO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,13 +34,29 @@
       <option name="presentableId" value="Default" />
       <updated>1612433705993</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Task Commit">
+      <created>1615547502847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615547502847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Task Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Task Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1612433820085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="654" y="275" key="#Notifications/0.0.1536.824/-1920.5.1536.824@0.0.1536.824" timestamp="1612433820085" />
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1615547501064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1615547501064" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613126602641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
